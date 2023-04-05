@@ -1,7 +1,3 @@
-# (©)Codexbotz
-# Recode by @mrismanaziz
-# t.me/SharingUserbot & t.me/Lunatic0de
-
 import pyromod.listen
 import sys
 
@@ -171,9 +167,6 @@ class Bot(Client):
                 )
                 self.LOGGER(__name__).info(
                     f"Pastikan @{self.username} adalah admin di Channel/Group Force Subs Tersebut, Chat ID Saat Ini: {FORCE_SUB_5}"
-                )
-                self.LOGGER(__name__).info(
-                    "Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan"
                 )
                 sys.exit()
 

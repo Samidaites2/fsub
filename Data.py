@@ -1,7 +1,3 @@
-# Credits: @mrismanaziz
-# FROM File-Sharing-Man <https://github.com/mrismanaziz/File-Sharing-Man/>
-# t.me/SharingUserbot & t.me/Lunatic0de
-
 from pyrogram.types import InlineKeyboardButton
 
 class Data:
@@ -18,8 +14,6 @@ class Data:
  ├ /batch - Untuk membuat link lebih dari satu file
  ├ /speedtest - Untuk Mengetes kecepatan server bot
  └ /broadcast - Untuk mengirim pesan broadcast ke pengguna bot
-
-👨‍💻 Develoved by @Lunatic0de</b>
 """
 
     close = [
@@ -48,6 +42,4 @@ class Data:
  • Creator: @{}
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
  • Language: <a href='https://www.python.org'>Python</a>
-
-👨‍💻 Develoved by @Lunatic0de</b>
 """
