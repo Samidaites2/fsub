@@ -22,7 +22,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[!Deploy](https://www.herokucdn.com/deploy/button.svg)(https://heroku.com/deploy?template=https://github.com/Samidaites2/fsub/tree/main)
+[!][https://www.herokucdn.com/deploy/button.svg](https://heroku.com/deploy?template=https://github.com/Samidaites2/fsub/tree/main)
 
 ### Admin Commands
 
